@@ -1,0 +1,14 @@
+layout_spectrum: 0.2583070669788867
+typography_spectrum: 0.2676561630796641
+color:
+  brandStrength: 0.8802478294819593
+  lightness: 0.6884055866394192
+  saturation: 0.09900173475034535
+  rhythmicContrast: 0.1417872072197497
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: pipl
